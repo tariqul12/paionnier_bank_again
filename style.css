@@ -1,0 +1,31 @@
+.form-control{
+    margin: 20px 0;
+}
+.login_area{
+    margin-top: 20px;
+    padding: 30px;
+    box-shadow: 10px 10px 30px gray;
+    margin: 30px;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: greenyellow;
+}
+#transaction_aria{
+    display: none;
+}
+.box{
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+}
+.deposit{
+    background-color: slateblue ;
+}
+.Withdraw{
+    background-color: lightcoral;
+}
+.Balance{
+    background-color: orange;
+}
